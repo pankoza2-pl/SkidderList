@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\SkidderList\SkidderList\bin\Release\SkidderList.exe
+C:\Users\ACER\source\repos\SkidderList\SkidderList\bin\Release\SkidderList.pdb
+C:\Users\ACER\source\repos\SkidderList\SkidderList\bin\Release\SkidderList.xml
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.vbproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.Form1.resources
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.Resources.resources
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.vbproj.GenerateResource.cache
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.exe
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.xml
+C:\Users\ACER\source\repos\SkidderList\SkidderList\obj\Release\SkidderList.pdb
