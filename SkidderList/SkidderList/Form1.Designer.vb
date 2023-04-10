@@ -45,7 +45,7 @@ Partial Class Form1
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.ReadOnly = True
         Me.TextBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both
-        Me.TextBox1.Size = New System.Drawing.Size(1530, 428)
+        Me.TextBox1.Size = New System.Drawing.Size(1523, 455)
         Me.TextBox1.TabIndex = 1
         Me.TextBox1.Text = resources.GetString("TextBox1.Text")
         '
@@ -55,7 +55,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = Global.SkidderList.My.Resources.Resources.mist32bickskidder
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.ClientSize = New System.Drawing.Size(1547, 511)
+        Me.ClientSize = New System.Drawing.Size(1539, 540)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Label1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
